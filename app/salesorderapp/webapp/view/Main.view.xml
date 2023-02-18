@@ -1,7 +1,7 @@
 <mvc:View controllerName="com.ats.so.salesorderapp.controller.Main"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
+    <Page id="page" title="Hey BTPians! Are you ready">
         <content>
             <List id="idList" items="{/MySalesOrder}">
                 <items>
